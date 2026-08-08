@@ -18,4 +18,3 @@
 ![](https://streak-stats.demolab.com/?user=Dev-Fahim-Code&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dev-Fahim-Code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
-![](https://komarev.com/ghpvc/?username=Dev-Fahim-Code&icon=0&color=0)
