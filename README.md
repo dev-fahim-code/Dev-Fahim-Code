@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi, I'm Fahim 👋
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Fahim+%F0%9F%91%8B;Windows+Automation+Enthusiast;PowerShell+%26+Batch+Developer;Building+Useful+Windows+Tools" alt="Typing animation introducing Fahim" />
+</a>
 
 ### Student · Windows Automation · PowerShell & Batch
 
