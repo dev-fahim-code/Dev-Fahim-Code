@@ -59,10 +59,20 @@ I build practical Windows utilities and scripts focused on system management, pe
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-fahim-code&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-fahim-code&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+<a href="https://github.com/dev-fahim-code">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-fahim-code&theme=github_dark" alt="Fahim's GitHub profile summary" />
+</a>
 
-<img src="https://streak-stats.demolab.com?user=dev-fahim-code&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+<a href="https://github.com/dev-fahim-code">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-fahim-code&theme=github_dark" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/dev-fahim-code">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-fahim-code&theme=github_dark" alt="Most used languages by commits" />
+</a>
+
+<a href="https://github.com/dev-fahim-code">
+  <img width="95%" src="https://streak-stats.demolab.com?user=dev-fahim-code&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="GitHub contribution streak" />
+</a>
 
 </div>
 
